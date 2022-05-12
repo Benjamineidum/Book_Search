@@ -16,8 +16,9 @@
   "devDependencies": {
     "concurrently": "^5.1.0"
   },
-   "dependencies": {
+  "dependencies": {
     "@apollo/react-hooks": "^4.0.0",
-    "if-env": "^1.0.4"
+    "if-env": "^1.0.4",
+    "jsonwebtoken": "^8.5.1"
   }
 }
